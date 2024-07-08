@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Angel Velazquez Garcia
 ==============================================================================================================================================
 
-Full-Stack Jr. Developer
+Web developer
 ----------------------------------
 
 Hello! I'm Angel, passionate about programming and web development. I love being constantly learning and exploring new technologies to improve my skills. I am passionate about working as a team, as I believe that this allows us to create more effective and complete solutions. I always seek to continuously improve my skills and knowledge to provide better service and more innovative solutions. If you are looking for a committed and passionate web developer, don't hesitate to contact me!
